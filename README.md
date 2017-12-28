@@ -3,6 +3,7 @@
 Creating Hive Table Creation and Insert Scripts Automatically & Comparing Hadoop table data with other RDBMS data table
 
 
+
 Objective:
 a) Creating Hive tables is really an easy task. But when you really want to migrate from existing RDMS to Hadoop based on the Source RDBMS tables and it’s data types. The Development Scripts Creation and Execution take a huge toll. 
 b) Once the tables and data is migrated from the existing RDBMS , we need to validate the data move to Hadoop. Creating a tool that compares the data of the existing source RDBMS with migrated data to Hadoop.
