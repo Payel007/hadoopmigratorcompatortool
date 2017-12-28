@@ -49,13 +49,26 @@ Pre-requisites & Details:
 2.	Execute the Python scripts (must have Python 2.7 as well as PyQT4)
 When the tool is invoked. User should provide the Username /password. After that we must select the Source Data sources , if is Hadoop or Postgres SQL, check the box next to Source Datasouces.
 3.User can select specific columns or whole table.
+
+![Image one](https://github.com/Payel007/hadoopmigratorcompatortool/blob/master/one.png)
+![Image two](https://github.com/Payel007/hadoopmigratorcompatortool/blob/master/two.png)
+
 4.Press button Done with source as well as Done with Target respectively when done .So that you can move to Hit Compare for comparing.
+
+![Image three](https://github.com/Payel007/hadoopmigratorcompatortool/blob/master/three.png)
+![Image four](https://github.com/Payel007/hadoopmigratorcompatortool/blob/master/four.png)
+![Image five](https://github.com/Payel007/hadoopmigratorcompatortool/blob/master/five.png)
+
+
+
 5.Once the processing of comparison is done . The Screen display interactively as well as graphically. The details will be like 
 a)	Non Matching rows
 b)	Matching rows
 c)	Total number of rows processed by source 
 d)	Total number of rows processed by target 
 e)	Allow user to save the difference data .
+
+![Image six](https://github.com/Payel007/hadoopmigratorcompatortool/blob/master/six.png)
 
 6.This is for the Hive-Table Generator . This creates the DDL for all the table or selected by the user . The User should select the data sources . once the data source is selected. User can either go with single selection of the table or the check the box of all tables.
 
